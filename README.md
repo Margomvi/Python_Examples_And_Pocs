@@ -11,6 +11,7 @@ The main purpose is to:
 
 - `exercises/` → Folder with Python exercises and practice scripts.  
 - `pocs/` → Folder for experiments, mini projects, or PoCs.  
+- `lessons/` → Folder with my learned lessons.
 - `README.md` → This file, describing the repository.  
 
 > Note: This repository is constantly evolving, so you will find new content as I progress in my learning and personal projects.
