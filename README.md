@@ -15,9 +15,3 @@ The main purpose is to:
 - `README.md` → This file, describing the repository.
 
 > Note: This repository is constantly evolving, so you will find new content as I progress in my learning and personal projects.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
